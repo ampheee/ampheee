@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=20&pause=10000&color=FFBF40&background=FFFFFF00&width=435&lines=Hey!+%E2%9C%A8+I+am+Rustam%20+%20%E2%9C%A8)
 
-<p align="center">
 [![Vk](https://img.shields.io/badge/VKontakte-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/self.fishkid")](vk.com/self.fishkid)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=ampheee&color=blue&labelColor=black)](https://t.me/ampheee)
 [![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=for-the-    badge&labelColor=black&color=darkorange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fampheee&logo=leetcode&logoColor=yellow)](https://leetcode.com/ampheee/)<br>
-</a>
 
 <h2>My Arsenal</h2>
 
