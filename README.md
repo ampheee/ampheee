@@ -1,6 +1,3 @@
-
-<img align="center" alt="Coding" width="1080" height="500" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
 <h2 align="center"> Hey ✨ I`m Rustam! </h2>
 
 <h3 align="center">
