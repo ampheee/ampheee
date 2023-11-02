@@ -3,7 +3,7 @@
 <h3 align="center">
 Back-end developer. 📚 <br>
 I study at MSTU "STANKIN" and "School 21"
-of Sberbank.</h3>
+of Sber.</h3>
 <h3 align="center">My social media. Contact me!)</h3>
 <p align="center">
 <a href="https://github.com/ampheee"> <img src="https://img.shields.io/github/followers/ampheee?label=follow&logo=github&style=for-the-badge&labelColor=black"></a>
