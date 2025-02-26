@@ -1,5 +1,3 @@
-<h2 align="center">I`m Rustam</h2>
-
 <h3 align="center">
 Embedded/Blockchain developer <br>
 Ecole42 | MSTU "STANKIN"
@@ -15,5 +13,4 @@ Ecole42 | MSTU "STANKIN"
 <img height=165 src="https://github-readme-stats.vercel.app/api?username=ampheee&count_private=true&show_icons=true&theme=merko"
 </p>
 
-## <p align="center"> Trying my best to keep up here!</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ampheee&label=Profile%20views&color=0e75b6&style=flat" alt="ampheee" /> </p>
